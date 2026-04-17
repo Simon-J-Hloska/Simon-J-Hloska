@@ -1,10 +1,10 @@
 ![MasterHead](omnom.jpg)
 ![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)
 <h1 align="center">Hi there👋</h1>
-<h3 align="center">I'm Maksym - a Backend Developer from Ukraine</h3>
+<h3 align="center">I'm Maksym - a Backend Developer</h3>
 <img align="right" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=icykcypher&label=Profile%20views&color=0e75b6&style=flat" alt="icykcypher" /> </p>
-<p>📫 How to reach me → solonitsyn.maksym@gmail.com</p>    
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Simon-J-Hloska&label=Profile%20views&color=0e75b6&style=flat" alt="Simon-J-Hloska" /> </p>
+<p>📫 How to reach me → hloska@spsejecna.cz</p>    
 <h3 align="center">Technology Stack</h3>
 <p align="center"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
@@ -39,14 +39,14 @@
     <tr>
       <td style="border: 0;">
           <img
-            src="https://github-readme-stats-steel-omega.vercel.app/api?username=icykcypher&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-light-mode-only"
+            src="https://github-readme-stats-steel-omega.vercel.app/api?username=Simon-J-Hloska&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-light-mode-only"
             alt="My Github stats"
             height="370"
           />
       </td>
       <td style="border: 0;">
           <img
-            src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=icykcypher&layout=pie&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&custom_title=Langs%20distribution%20in%20my%20repos#gh-light-mode-only"
+            src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=Simon-J-Hloska&layout=pie&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&custom_title=Langs%20distribution%20in%20my%20repos#gh-light-mode-only"
             alt="My Language stats"
             width="280"
           />
@@ -61,14 +61,14 @@
     <tr>
       <td style="border: 0;">
         <img
-          src="https://github-readme-stats-steel-omega.vercel.app/api?username=icykcypher&show_icons=true&include_all_commits=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-dark-mode-only"
+          src="https://github-readme-stats-steel-omega.vercel.app/api?username=Simon-J-Hloska&show_icons=true&include_all_commits=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-dark-mode-only"
           alt="My Github stats"
           height="370"
         />
       </td>
       <td style="border: 0;">
         <img
-          src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=icykcypher&layout=pie&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&custom_title=Langs%20distribution%20in%20my%20repos#gh-dark-mode-only"
+          src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=Simon-J-Hloska&layout=pie&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&custom_title=Langs%20distribution%20in%20my%20repos#gh-dark-mode-only"
           alt="My Language stats"
           width="280"
         />
@@ -81,7 +81,7 @@
 <div align="center">
   <a href="https://github.com/qwerty541#gh-light-mode-only">
     <img
-       src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=icykcypher&locale=en&type=svg&hide_border=true&fire=2d77dc&ring=2d77dc&currStreakLabel=000000"
+       src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=Simon-J-Hloska&locale=en&type=svg&hide_border=true&fire=2d77dc&ring=2d77dc&currStreakLabel=000000"
        alt="My GitHub streak stats"
      />
   </a>
@@ -92,7 +92,7 @@
 <div align="center">
   <a href="https://github.com/qwerty541#gh-dark-mode-only">
     <img
-       src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=icykcypher&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true"
+       src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=Simon-J-Hloska&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true"
        alt="My GitHub streak stats"
      />
   </a>
@@ -102,7 +102,7 @@
 <div align="center">
   <a href="https://github.com/qwerty541#gh-light-mode-only">
     <img
-        src="https://github-readme-stats-steel-omega.vercel.app/api/wakatime?username=icykcypher&layout=compact&hide_border=true&custom_title=WakaTime%20Stats%20%28Since%20Feb%2024%202024%29"
+        src="https://github-readme-stats-steel-omega.vercel.app/api/wakatime?username=Simon-J-Hloska&layout=compact&hide_border=true&custom_title=WakaTime%20Stats%20%28Since%20Feb%2024%202024%29"
         alt="My Wakatime stats"
       />
   </a>
