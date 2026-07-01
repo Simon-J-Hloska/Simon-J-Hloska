@@ -6,20 +6,27 @@
 <p>📫 How to reach me → simon.hloska@gmail.com</p>    
 <h3 align="center">Technology Stack</h3>
 <p align="center"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"  alt="docker" width="40" height="40"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="grafana" width="40" height="40"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  alt="postgre" width="40" height="40"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  alt="mysql" width="40" height="40"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"  alt="git" width="40" height="40"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" alt="rider" width="40" height="40"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="neovim xD" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original-wordmark.svg" alt="csharp" width="80" height="80"/> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original-wordmark.svg" alt="typescript" width="80" height="80"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"  alt="docker" width="80" height="80"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original-wordmark.svg" alt="grafana" width="80" height="80"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"  alt="postgre" width="80" height="80"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  alt="mysql" width="80" height="80"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="80"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"  alt="git" width="80" height="80"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original-wordmark.svg" alt="linux" width="80" height="80"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original-wordmark.svg" alt="bash" width="80" height="80"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original-wordmark.svg" alt="rider" width="80" height="80"/>
+            <img src="https://cdn.jsdelivr.net/npm/js-devicon@2.7.4/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="visualstudio" width="80" height="80"/>
+            <img src="https://cdn.jsdelivr.net/npm/js-devicon@2.7.4/icons/dot-net/dot-net-original-wordmark.svg" alt="dot-net" width="80" height="80"/>
+            <img src="https://cdn.jsdelivr.net/npm/js-devicon@2.7.4/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/>
+            <img src="https://cdn.jsdelivr.net/npm/js-devicon@2.7.4/icons/intellij/intellij-original-wordmark.svg" alt="intellij" width="80" height="80"/>
+            <img src="https://cdn.jsdelivr.net/npm/js-devicon@2.7.4/icons/java/java-original-wordmark.svg" alt="java" width="80" height="80"/>
+            <img src="https://cdn.jsdelivr.net/npm/js-devicon@2.7.4/icons/pycharm/pycharm-original-wordmark.svg" alt="pycharm" width="80" height="80"/>
+            <img src="https://cdn.jsdelivr.net/npm/js-devicon@2.7.4/icons/wordpress/wordpress-original.svg" alt="wordpress" width="80" height="80"/>
+            <img src="https://cdn.jsdelivr.net/npm/js-devicon@2.7.4/icons/webstorm/webstorm-original-wordmark.svg" alt="webstorm" width="80" height="80"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Fedora_icon_%282021%29.svg" alt="fedora" width="80" height="80"/>
 </p>
 
 <!--!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)-->
