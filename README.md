@@ -6,17 +6,17 @@
 <p>📫 How to reach me → simon.hloska@gmail.com</p>    
 <h3 align="center">Technology Stack</h3>
 <p align="center"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original-wordmark.svg" alt="csharp" width="80" height="80"/> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="csharp" width="80" height="80"/> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original-wordmark.svg" alt="typescript" width="80" height="80"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="80" height="80"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"  alt="docker" width="80" height="80"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original-wordmark.svg" alt="grafana" width="80" height="80"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="nginx" width="80" height="80"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"  alt="postgre" width="80" height="80"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  alt="mysql" width="80" height="80"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="80"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"  alt="git" width="80" height="80"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original-wordmark.svg" alt="linux" width="80" height="80"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original-wordmark.svg" alt="bash" width="80" height="80"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="80" height="80"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original-wordmark.svg" alt="rider" width="80" height="80"/>
             <img src="https://cdn.jsdelivr.net/npm/js-devicon@2.7.4/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="visualstudio" width="80" height="80"/>
             <img src="https://cdn.jsdelivr.net/npm/js-devicon@2.7.4/icons/dot-net/dot-net-original-wordmark.svg" alt="dot-net" width="80" height="80"/>
