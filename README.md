@@ -27,6 +27,7 @@
             <img src="https://cdn.jsdelivr.net/npm/js-devicon@2.7.4/icons/wordpress/wordpress-original.svg" alt="wordpress" width="60" height="60"/>
             <img src="https://cdn.jsdelivr.net/npm/js-devicon@2.7.4/icons/webstorm/webstorm-original-wordmark.svg" alt="webstorm" width="60" height="60"/>
             <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Fedora_icon_%282021%29.svg" alt="fedora" width="60" height="60"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="60" height="60"/>
 </p>
 
 <!--!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)-->
